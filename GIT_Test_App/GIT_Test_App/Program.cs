@@ -10,7 +10,7 @@ namespace GIT_Test_App
             Console.WriteLine("This is a test to play with GIT");
 
             Student std = new Student();
-            std.Greetings("Mihai","Anghel");
+            std.Greetings("Mihai","Anghel","Ita");
 
             Console.WriteLine();
         }
