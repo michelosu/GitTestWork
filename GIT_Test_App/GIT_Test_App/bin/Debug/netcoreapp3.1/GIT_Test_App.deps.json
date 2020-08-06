@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GIT_Test_App/1.0.0": {
+        "runtime": {
+          "GIT_Test_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIT_Test_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

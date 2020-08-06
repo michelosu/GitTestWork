@@ -1,0 +1,11 @@
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\bin\Debug\netcoreapp3.1\GIT_Test_App.exe
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\bin\Debug\netcoreapp3.1\GIT_Test_App.deps.json
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\bin\Debug\netcoreapp3.1\GIT_Test_App.runtimeconfig.json
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\bin\Debug\netcoreapp3.1\GIT_Test_App.runtimeconfig.dev.json
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\bin\Debug\netcoreapp3.1\GIT_Test_App.dll
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\bin\Debug\netcoreapp3.1\GIT_Test_App.pdb
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\obj\Debug\netcoreapp3.1\GIT_Test_App.csprojAssemblyReference.cache
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\obj\Debug\netcoreapp3.1\GIT_Test_App.AssemblyInfoInputs.cache
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\obj\Debug\netcoreapp3.1\GIT_Test_App.AssemblyInfo.cs
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\obj\Debug\netcoreapp3.1\GIT_Test_App.dll
+C:\GIT_Test\GIT_Test_App\GIT_Test_App\obj\Debug\netcoreapp3.1\GIT_Test_App.pdb
